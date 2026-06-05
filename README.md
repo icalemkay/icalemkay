@@ -1,7 +1,7 @@
 ### Hi, I'm Saleem 👋  
 AI/ML Developer
 
-I build AI products that actually ship — RAG pipelines, voice agents,  
+I build AI products that actually ship RAG pipelines, voice agents,  
 multi-agent systems, and full-stack AI SaaS. 8+ years turning  
 "we want an AI that does X" into lean, scalable systems.
 
