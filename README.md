@@ -19,4 +19,4 @@ multi-agent systems, and full-stack AI SaaS. 8+ years turning
 - ⚙️ Workflow automation — n8n, Make, Flowise
 - 🚀 AI SaaS & MVPs — Python, FastAPI, Django, Next.js, Docker
 
-📫 Reach me: [your email or Upwork link]
+📫 Reach me: mrsaleemkhan010@gmail.com
