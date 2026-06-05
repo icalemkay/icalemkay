@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Saleem 👋  
+AI/ML Developer
 
-<!--
-**isaleemkhan/isaleemkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI products that actually ship — RAG pipelines, voice agents,  
+multi-agent systems, and full-stack AI SaaS. 8+ years turning  
+"we want an AI that does X" into lean, scalable systems.
 
-Here are some ideas to get you started:
+🔭 Currently building voice agents, RAG systems, and AI automation for clients  
+🛠️ LangChain · LlamaIndex · CrewAI · FastAPI · Next.js · AWS Bedrock  
+🧠 Fine-tuning (LoRA/QLoRA), vector DBs, speech (Whisper/Deepgram/ElevenLabs)  
+🌐 Shipped: [CharlieAI](https://charlieai.io) · [TrySetter](https://trysetter.com) · [Bookkeepa](https://bookkeepa.com) · [DeftGPT](https://deftgpt.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I work on**
+- 🤖 AI agents & voice agents — CrewAI, AutoGen, Vapi, Retell, Deepgram
+- 📚 RAG & LLM integration — LangChain, LlamaIndex, Pinecone, Qdrant, FAISS
+- 🎯 LLM fine-tuning — LoRA, QLoRA, PEFT on LLaMA 3, Mistral
+- ⚙️ Workflow automation — n8n, Make, Flowise
+- 🚀 AI SaaS & MVPs — Python, FastAPI, Django, Next.js, Docker
+
+📫 Reach me: [your email or Upwork link]
