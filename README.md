@@ -34,8 +34,8 @@ I build AI products that actually ship: RAG pipelines, voice agents, multi-agent
 
 ### GitHub Stats
 
-![Saleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaleemkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Calem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaleemkhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
-📫 **Let's build something** — [mrsaleemkhan010@gmail.com](mailto:mrsaleemkhan010@gmail.com)
+📫 **Let's build something** — [calemkay101@gmail.com](mailto:calemkay101@gmail.com)
