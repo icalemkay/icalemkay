@@ -1,8 +1,8 @@
-### Hi, I'm Calem 👋
+### Hi, I'm Moh 👋
 
-# AI/ML Developer
+# Data Engineer 
 
-I build AI products that actually ship: RAG pipelines, voice agents, multi-agent systems, and full-stack AI SaaS. 8+ years turning *"we want an AI that does X"* into lean, scalable systems.
+I build Data & AI products that actually ship: RAG pipelines, voice agents, multi-agent systems, and full-stack AI SaaS. 8+ years turning *"we want an AI that does X"* into lean, scalable systems.
 
 🔭 Currently building voice agents, RAG systems, and AI automation for clients <br>
 🛠️ LangChain · LlamaIndex · CrewAI · FastAPI · Next.js · AWS Bedrock <br>
@@ -38,4 +38,5 @@ I build AI products that actually ship: RAG pipelines, voice agents, multi-agent
 
 ---
 
-📫 **Let's build something** — [calemkay101@gmail.com](mailto:calemkay101@gmail.com)
+📫 **Let's build something** — [mohash10098@gmail.com
+](mailto:mohash10098@gmail.com)
